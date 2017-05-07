@@ -1,1 +1,1 @@
-"# colorGame" 
+"Color Game Project created while working through an online course in JavaScript, CSS, and HTML."
